@@ -1,4 +1,4 @@
-This application is being developed for one community. It is applied on this mini project, different front ednd technologies and java based technologies and frameworks. Including
+This application is being developed using the following technologies
 Jsp
 Hibernet
 HTML5 
