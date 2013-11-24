@@ -3,3 +3,4 @@ Jsp
 Hibernet
 HTML5 
 WYSWYG (Tinymce)
+Jquery will be used for validation 
